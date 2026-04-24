@@ -1,0 +1,119 @@
+post_id,title,category,score,num_comments,author,collected_at
+47865868,Alberta startup sells no-tech tractors for half price,technology,717,260,Kaibeezy,2026-04-22 22:58:49
+47866913,Over-editing refers to a model modifying code beyond what is necessary,technology,158,84,pella,2026-04-22 22:58:50
+47867755,Scores decline again for 13-year-old students in reading and mathematics,technology,45,15,u1hcw9nx,2026-04-22 22:58:51
+47861270,Windows 9x Subsystem for Linux,technology,775,182,sohkamyung,2026-04-22 22:58:55
+47865661,"Martin Fowler: Technical, Cognitive, and Intent Debt",technology,105,19,theorchid,2026-04-22 22:59:00
+47864393,Scoring Show HN submissions for AI design patterns,technology,237,184,hubraumhugo,2026-04-22 22:59:10
+47865642,"Show HN: Broccoli, one shot coding agent on the cloud",technology,27,19,yzhong94,2026-04-22 22:59:16
+47864454,"DuckDB 1.5.2 – SQL database that runs on laptop, server, in the browser",technology,113,44,janandonly,2026-04-22 22:59:20
+47866368,Anker made its own chip to bring AI to all its products,technology,44,32,Brajeshwar,2026-04-22 22:59:26
+47821853,Garbage Collection Without Unsafe Code,technology,104,58,foota,2026-04-22 22:59:27
+47822117,Prefill-as-a-Service:KVCache of Next-Generation Models Could Go Cross-Datacenter,technology,43,1,matt_d,2026-04-22 22:59:28
+47867861,"Apple's New CEO Has a Background in VR, but Is Reportedly Bearish on Vision Pro",technology,8,7,LorenDB,2026-04-22 22:59:34
+47866293,"Google Cloud customer wakes up to $18,000 bill despite $7 budget",technology,27,15,speckx,2026-04-22 22:59:35
+47862230,Kernel code removals driven by LLM-created security reports,technology,95,80,edward,2026-04-22 22:59:37
+47867085,OpenAI: Workspace Agents for Business,technology,36,7,tosh,2026-04-22 22:59:43
+47835837,A printing press for biological data,technology,55,2,crescit_eundo,2026-04-22 22:59:46
+47847179,Laws of Software Engineering,technology,1118,507,milanm081,2026-04-22 22:59:47
+47850212,CrabTrap: An LLM-as-a-judge HTTP proxy to secure agents in production,technology,123,53,pedrofranceschi,2026-04-22 22:59:49
+47865143,USVC: A new fund by AngelList that broadens access to venture capital,technology,5,0,bpierre,2026-04-22 22:59:50
+47854477,Claude Code to be removed from Anthropic's Pro plan?,technology,649,610,JamesMcMinn,2026-04-22 22:59:52
+47849097,Show HN: GoModel – an open-source AI gateway in Go,technology,192,71,santiago-pl,2026-04-22 22:59:57
+47851948,"Meta to start capturing employee mouse movements, keystrokes for AI training",technology,758,505,dlx,2026-04-22 23:00:01
+47861881,Iran claims US exploited networking equipment backdoors during strikes,technology,60,33,pseudolus,2026-04-22 23:00:09
+47844539,The Beauty of Bonsai Styles,technology,213,39,lagniappe,2026-04-22 23:00:10
+47851634,The Vercel breach: OAuth attack exposes risk in platform environment variables,worldnews,359,116,queenelvis,2026-04-22 23:00:56
+47844269,Anthropic says OpenClaw-style Claude CLI usage is allowed again,worldnews,496,287,jmsflknr,2026-04-22 23:01:32
+47857509,"Global growth in solar ""the largest ever observed for any source""",worldnews,102,30,tambourine_man,2026-04-22 23:01:44
+47831437,OpenClaw isn't fooling me. I remember MS-DOS,worldnews,307,329,feigewalnuss,2026-04-22 23:01:48
+47834689,"MNT Reform is an open hardware laptop, designed and assembled in Germany",worldnews,296,113,speckx,2026-04-22 23:01:56
+47823814,"Context Is Software, Weights Are Hardware",worldnews,17,10,maxaravind,2026-04-22 23:02:05
+47863587,Millions of renters hit by unlawful data collection,worldnews,9,0,thedays,2026-04-22 23:02:17
+47864795,AI Tool Rips Off Open Source Software Without Violating Copyright,worldnews,5,4,Brajeshwar,2026-04-22 23:02:47
+47839835,F-35 is built for the wrong war,worldnews,295,683,anjel,2026-04-22 23:03:10
+47858800,Global energy markets are on the verge of a disaster,worldnews,15,8,petethomas,2026-04-22 23:03:33
+47842483,Linux PTP mainline development war story and new features,worldnews,24,0,ahlCVA,2026-04-22 23:03:45
+47824403,The creative software industry has declared war on Adobe,worldnews,251,188,tambourine_man,2026-04-22 23:04:43
+47831272,IEA: Solar overtakes all energy sources in a major global first,worldnews,167,134,Klaster_1,2026-04-22 23:04:54
+47849592,"As oceans warm, great white sharks are overheating",worldnews,127,131,speckx,2026-04-22 23:05:11
+47843569,Prediction markets are breaking the news and becoming their own beat,worldnews,49,69,gnabgib,2026-04-22 23:05:31
+47837611,"At long last, InfoWars is ours",worldnews,627,296,HotGarbage,2026-04-22 23:05:47
+47831857,File System Wars,worldnews,27,9,rantingdemon,2026-04-22 23:06:03
+47854568,"Air Force can't quit the A-10 Warthog, extends service into 2030",worldnews,17,5,ilamont,2026-04-22 23:06:13
+47827621,Show HN: Newsmaps.io a map of how news topics are covered by different countries,worldnews,19,6,mkoh,2026-04-22 23:07:03
+47853021,Anthropic bans orgs without warning,worldnews,29,13,alpinisme,2026-04-22 23:07:05
+47832287,The Victorian sex abuse scandal that shocked Britain and changed the law,worldnews,49,0,zeristor,2026-04-22 23:07:17
+47831085,The great Scouse pasty war,worldnews,5,0,DamonHD,2026-04-22 23:07:19
+47808174,"Random musings: 80s hardware, cyberdecks",worldnews,39,19,speckx,2026-04-22 23:07:34
+47835738,Baltic nations brace for impact of Iran war delaying US weapons shipments,worldnews,17,1,Teever,2026-04-22 23:07:55
+47866153,Homegrown – An interactive map of every 2025 FBS college football player,sports,9,7,brockbedard,2026-04-22 23:08:20
+47814874,Stephen's Sausage Roll remains one of the most influential puzzle games,sports,241,135,tobr,2026-04-22 23:08:55
+47845231,"Louis Zocchi, games industry pioneer, has died",sports,128,53,sgbeal,2026-04-22 23:09:18
+47839645,Soul Player C64 – A real transformer running on a 1 MHz Commodore 64,sports,147,45,adunk,2026-04-22 23:09:50
+47841129,Jujutsu megamerges for fun and profit,sports,262,166,icorbrey,2026-04-22 23:10:43
+47859309,"Arc Raiders players decided to test who was friendlier, PC or console players",sports,10,1,evo_9,2026-04-22 23:11:59
+47826104,Show HN: Faceoff – A terminal UI for following NHL games,sports,133,45,vcf,2026-04-22 23:12:16
+47851734,"Roo code shuts down, Team will focus on roomote agent",sports,24,1,buster,2026-04-22 23:13:08
+47853218,The Stress of Elite Chess Is Wearing Down the Game's Champions,sports,9,1,mellosouls,2026-04-22 23:14:08
+47850604,Engineering team looks healthy. It probably isn't,sports,11,1,birdculture,2026-04-22 23:14:32
+47868063,New study compares growing corn for energy to solar production. It's no contest,science,21,12,dotcoma,2026-04-22 23:16:30
+47866860,Workspace Agents in ChatGPT,science,44,14,mfiguiere,2026-04-22 23:16:33
+47820791,MuJoCo – Advanced Physics Simulation,science,104,22,modinfo,2026-04-22 23:16:48
+47855293,SpaceX says it has agreement to acquire Cursor for $60B,science,784,935,dmarcos,2026-04-22 23:16:54
+47865292,Health AI Startup Has Helped Reverse Denied Health Insurance Claims,science,18,11,pir8life4me,2026-04-22 23:17:19
+47866189,The Nancy Grace Roman Space Telescope: NASA's next great observatory completed,science,6,0,gmays,2026-04-22 23:17:32
+47858246,"FBI looks into dead or missing scientists tied to NASA, Blue Origin, SpaceX",science,214,141,ineedasername,2026-04-22 23:17:37
+47861988,CDC blocks study showing Covid shots cut hospital visits after earlier delay,science,48,0,Anon84,2026-04-22 23:18:03
+47855284,"Show HN: Almanac MCP, turn Claude Code into a Deep Research agent",science,13,1,rohans0509,2026-04-22 23:18:57
+47840851,"Show HN: Holos – QEMU/KVM with a compose-style YAML, GPUs and health checks",science,55,23,zeroecco,2026-04-22 23:19:24
+47811283,Landmark ancient-genome study shows surprise acceleration of human evolution,science,118,166,unsuspecting,2026-04-22 23:20:45
+47806348,Healthchecks.io now uses self-hosted object storage,science,195,77,zdw,2026-04-22 23:21:00
+47833092,NASA Artemis Posters,science,112,17,bookofjoe,2026-04-22 23:21:10
+47857771,NASA's Curiosity rover finds organic molecules on Mars,science,7,1,billybuckwheat,2026-04-22 23:21:51
+47807209,NASA Force,science,335,309,LorenDB,2026-04-22 23:21:57
+47849072,NASA's Curiosity rover finds organic molecules on Mars,science,11,1,skor,2026-04-22 23:22:00
+47820531,NASA Shuts Off Instrument on Voyager 1 to Keep Spacecraft Operating,science,230,116,sohkamyung,2026-04-22 23:22:05
+47831205,Advancing human gut microbiota research by considering gut transit time (2023),science,101,79,mikhael,2026-04-22 23:23:09
+47826933,Ancient-DNA Study Reveals Natural Selection Has Accelerated in Evolution,science,10,0,consumer451,2026-04-22 23:23:28
+47833282,A P2P Network for Reproducible Autoresearch Code Experiments,science,7,0,memoir,2026-04-22 23:23:44
+47845073,The Hero's Journey Is Burning the Planet,science,8,0,rcy,2026-04-22 23:23:46
+47849614,Will the lunar spacesuits be ready in time?,science,5,0,LorenDB,2026-04-22 23:24:25
+47842569,Making RAM at Home [video],entertainment,571,162,kaipereira,2026-04-22 23:24:49
+47838134,Anonymous credentials: an illustrated primer (Part 2),entertainment,9,0,kkl,2026-04-22 23:24:52
+47838680,Expansion Artifacts,entertainment,23,2,tobr,2026-04-22 23:25:02
+47867025,Pancreatic cancer mRNA vaccine shows lasting results in an early trial,entertainment,14,0,bookofjoe,2026-04-22 23:25:16
+47822968,Why Musicians Are Manufacturing Sold-Out Shows,entertainment,53,65,helsinkiandrew,2026-04-22 23:25:28
+47859739,The PowerShell-Haters Handbook,entertainment,10,5,Mr_Minderbinder,2026-04-22 23:25:41
+47836740,Show HN: Ctx – a /resume that works across Claude Code and Codex,entertainment,71,27,dchu17,2026-04-22 23:25:43
+47832248,"M 7.4 earthquake – 100 km ENE of Miyako, Japan",entertainment,290,137,Someone,2026-04-22 23:25:47
+47847558,"Show HN: VidStudio, a browser based video editor that doesn't upload your files",entertainment,290,104,kolx,2026-04-22 23:25:50
+47834565,"Qwen3.6-Max-Preview: Smarter, Sharper, Still Evolving",entertainment,702,377,mfiguiere,2026-04-22 23:25:51
+47822301,Show HN: Backlit Keyboard API for Python,entertainment,27,5,itsmeadarsh,2026-04-22 23:25:55
+47850907,Show HN: Daemons – we pivoted from building agents to cleaning up after them,entertainment,64,31,rileyt,2026-04-22 23:26:03
+47835411,Show HN: Mediator.ai – Using Nash bargaining and LLMs to systematize fairness,entertainment,154,74,sanity,2026-04-22 23:26:05
+47834184,Sauna effect on heart rate,entertainment,440,233,kyriakosel,2026-04-22 23:26:21
+47830687,Fields Medal Video: Maryna Viazovska (2022),entertainment,29,11,ganitam,2026-04-22 23:26:26
+47858442,"Show HN: Aide – A customizable Android assistant (voice, choose your provider)",entertainment,6,4,yincrash,2026-04-22 23:26:33
+47865885,"Moderna starts late-stage trial of bird flu vaccine in US, UK",entertainment,7,0,saikatsg,2026-04-22 23:26:40
+47815742,"The Mystery of Rennes-Le-Château, Part 4: Non-Fiction Meets Fiction",entertainment,12,0,ibobev,2026-04-22 23:26:43
+47840980,OpenAI ad partner now selling ChatGPT ad placements based on “prompt relevance”,entertainment,300,160,jlark77777,2026-04-22 23:26:54
+47823460,Show HN: Prompt-to-Excalidraw demo with Gemma 4 E2B in the browser (3.1GB),entertainment,159,62,teamchong,2026-04-22 23:27:16
+47854518,Smart TV tracking raises privacy concerns (2024),entertainment,49,58,nowflux,2026-04-22 23:27:36
+47857169,New Drugs for Pancreatic Cancer Show Remarkable Promise for Deadly Disease,entertainment,18,0,megacorp,2026-04-22 23:27:40
+47853877,Show HN: FMQL – graph query and bulk-edit CLI for Markdown and YAML frontmatter,entertainment,5,1,buyukdev,2026-04-22 23:27:42
+47865923,Startups Brag They Spend More Money on AI Than Human Employees,entertainment,45,43,SLHamlet,2026-04-22 23:27:45
+47828420,"2,100 Swiss municipalities showing which provider handles their official email",entertainment,236,69,doener,2026-04-22 23:27:57
+47863217,Qwen3.6-27B: Flagship-Level Coding in a 27B Dense Model,technology,490,241,mfiguiere,2026-04-22 23:28:00
+47824943,5x5 Pixel font for tiny screens,technology,239,56,zdw,2026-04-22 23:28:01
+47860682,You don't need advice from editors on rejected manuscripts,technology,46,23,MrBuddyCasino,2026-04-22 23:28:02
+47866697,We found a stable Firefox identifier linking all your private Tor identities,technology,128,43,danpinto,2026-04-22 23:28:03
+47867048,Website streamed live directly from a model,technology,31,12,sethbannon,2026-04-22 23:28:04
+47866750,Parallel Agents in Zed,technology,96,50,ajeetdsouza,2026-04-22 23:28:05
+47862497,Our eighth generation TPUs: two chips for the agentic era,technology,334,162,xnx,2026-04-22 23:28:06
+47866395,Surveillance Pricing: Exploiting Information Asymmetries,technology,52,20,cainxinth,2026-04-22 23:28:08
+47863324,Ultraviolet corona discharges on treetops during storms,technology,165,45,t-3,2026-04-22 23:28:09
+47812649,Bodega cats of New York,technology,113,45,zdw,2026-04-22 23:28:10
+47862386,3.4M Solar Panels,technology,250,179,marklit,2026-04-22 23:28:11
+47862331,GitHub CLI now collects pseudoanonymous telemetry,technology,351,271,ingve,2026-04-22 23:28:12
+47862626,Columnar Storage Is Normalization,technology,84,33,ibobev,2026-04-22 23:28:13
